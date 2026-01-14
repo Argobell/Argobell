@@ -25,9 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Argobell&theme=dark&hide_border=true"/>
-</p>
 
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <p align="left">
